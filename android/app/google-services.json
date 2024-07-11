@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439552852997",
+    "project_id": "brewcrew-327fc",
+    "storage_bucket": "brewcrew-327fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439552852997:android:b20955a35f43277b61c86c",
+        "android_client_info": {
+          "package_name": "com.example.coffeebrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD91qlofYlBpnyXk-SaVhDYkwbVWUccK5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439552852997:android:44a872e25f64d21861c86c",
+        "android_client_info": {
+          "package_name": "com.muskanbrewcrew.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD91qlofYlBpnyXk-SaVhDYkwbVWUccK5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
